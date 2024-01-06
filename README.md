@@ -8,7 +8,7 @@ Before you begin, make sure [Helm](https://helm.sh/) is installed on your system
 
 ### Adding the Repo 📝
 
-To add our Helm Chart repository to your Helm setup, run the following command:
+To add the Helm Chart repository to your Helm setup, run the following command:
 
 ```
 bashCopy code
